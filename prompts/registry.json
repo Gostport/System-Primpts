@@ -3,5 +3,10 @@
     "name": "Photo Stylizer",
     "description": "image editing",
     "category": "Image"
+  },
+  "prompts/image/ai-photo-stylizer.prompt": {
+    "name": "Ai Photo Stylizer",
+    "description": "",
+    "category": "image"
   }
 }
