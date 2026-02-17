@@ -1,0 +1,7 @@
+{
+  "prompts/Image/photo-stylizer.prompt": {
+    "name": "Photo Stylizer",
+    "description": "image editing",
+    "category": "Image"
+  }
+}
